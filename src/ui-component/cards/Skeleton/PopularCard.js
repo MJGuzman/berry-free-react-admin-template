@@ -1,7 +1,8 @@
 import React from 'react';
 // material-ui
 import { makeStyles } from '@material-ui/styles';
-import { Card, CardContent, Grid, Skeleton } from '@material-ui/core';
+import { Card, CardContent, Grid } from '@material-ui/core';
+import { Skeleton } from '@material-ui/lab';
 
 // project imports
 import { gridSpacing } from 'store/constant';
